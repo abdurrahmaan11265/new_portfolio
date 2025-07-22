@@ -165,53 +165,44 @@ const experience = new Date().getFullYear() - 2021;
                 }],
                 m = [{
                     id: 1,
-                    name: "Full-Stack Web Development",
-                    value: "90"
+                    name: "MERN Stack",
+                    value: "95"
                 }, {
                     id: 2,
-                    name: "JavaScript",
-                    value: "95"
+                    name: "AI & Machine Learning",
+                    value: "85"
                 }, {
                     id: 3,
                     name: "Python",
-                    value: "80"
+                    value: "90"
                 }, {
                     id: 4,
-                    name: "SQL",
+                    name: "Docker",
                     value: "85"
                 }, {
                     id: 5,
-                    name: "Node.js",
-                    value: "85"
+                    name: "AWS",
+                    value: "90"
                 }, {
                     id: 6,
-                    name: "Express.js",
+                    name: "Django",
                     value: "80"
-                }
-                    , {
+                }, {
                     id: 7,
-                    name: "React.js",
+                    name: "LangChain & Vector Databases",
                     value: "80"
-                }
-                    , {
+                }, {
                     id: 8,
-                    name: "Git/GitHub",
-                    value: "65"
-                }
-                    , {
+                    name: "Data Analysis",
+                    value: "90"
+                }, {
                     id: 9,
-                    name: "REST APIs",
-                    value: "85"
-                }
-                    , {
-                    id: 10,
-                    name: "Machine Learning",
-                    value: "75"
-                }
-                    , {
-                    id: 11,
-                    name: "Data Analysis ",
+                    name: "polyglot programming",
                     value: "80"
+                }, {
+                    id: 10,
+                    name: "Project & Team Management",
+                    value: "90"
                 }];
             t.default = () => {
                 let {
