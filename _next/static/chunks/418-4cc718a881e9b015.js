@@ -1,5 +1,5 @@
 "use strict";
-const experience = new Date().getFullYear() - 2021;
+const experience = new Date().getFullYear() - 2022;
 
 (self.webpackChunk_N_E = self.webpackChunk_N_E || []).push([
     [418], {
